@@ -12,7 +12,7 @@ IPLD data. It is used by Filecoin for syncing the blockchain and transfering DAG
 in a trustless fashion.
 
 Requires a [libp2p-circuit](https://github.com/libp2p/js-libp2p/blob/633d4a9740ea02e32c0bb290c0a3958b68f181e9/src/circuit/README.md) [relayer](https://github.com/libp2p/js-libp2p/blob/633d4a9740ea02e32c0bb290c0a3958b68f181e9/doc/CONFIGURATION.md#setup-with-relay)
-```
+
 
 ## Usage
 
